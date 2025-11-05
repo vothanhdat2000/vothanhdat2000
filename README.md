@@ -58,7 +58,7 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 
 My professional experience is backed by official workplace verifications on my LinkedIn profile:
 
-* ✅ **Microsoft (SRE Role):** Verified via company work email.
+* ✅ **Microsoft:** Verified via company work email.
 * ✅ **Gameloft:** Verified via company work email.
 
 This confirms my employment history and role at both organizations.
