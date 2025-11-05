@@ -50,7 +50,7 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 * *University of Information Technology (UIT) - VNU-HCM*
 * *Graduation: 2022 - 2025*
 
-### Bachelor of Business, Business Administration - Business Systems Management
+### Bachelor of Business, Business Administration - Management Information Systems
 * *University of Labour & Social Affairs (ULSA2)*
 * *Graduated: 2018 - 2022*
 
