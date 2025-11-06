@@ -19,7 +19,7 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 * **Monitoring & Observability:** **Prometheus**, **Grafana**
 * **Automation Scripting:** **Python**, **PowerShell**, Bash
 * **Databases:** **SQL** (PostgreSQL, MySQL, DBA Fundamentals)
-* **Networking:** **TCP/IP**, **DNS**, **DHCP**, Load Balancing, VPC
+* **Networking:** **TCP/IP**, **DNS**, **DHCP**
 
 ## 💼 Professional Experience
 
