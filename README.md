@@ -25,7 +25,7 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 
 ### DevOps Engineer
 * **Company:** **Gameloft**
-* **Duration:** September 2024 – Present
+* **Duration:** November 2024 – Present
 * Design, deploy, and manage scalable and highly available infrastructure on **AWS** using Infrastructure as Code (IaC) tools like [Terraform/CloudFormation].
 * Implement and maintain CI/CD pipelines using **Docker** and **Kubernetes** to automate the build, testing, and deployment of applications.
 * Monitor system performance and reliability using **Prometheus** and **Grafana**, responding to incidents and driving post-mortem analysis to ensure SLOs are met.
@@ -33,7 +33,7 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 
 ### Site Reliability Engineer
 * **Company:** **Microsoft**
-* **Duration:** January 2023 – September 2024
+* **Duration:** January 2023 – November 2024
 * Acted as an SRE for core Microsoft services, responsible for maintaining service reliability, upholding SLOs/SLAs, and participating in on-call incident response.
 * Automated operational tasks, diagnostics, and recovery procedures using **PowerShell** to reduce manual intervention (MTTR) and improve system resilience.
 * Analyzed service telemetry and health data to identify, troubleshoot, and resolve systemic issues related to networking, identity, and distributed cloud services.
@@ -48,7 +48,7 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 
 ### Bachelor of Science, Information Technology - Cloud & Systems Engineering
 * *University of Information Technology (UIT) - VNU-HCM*
-* *Graduation: 2023 - 2025*
+* *Graduation: 2023 - 2026*
 
 ### Bachelor of Business, Business Administration - Management Information Systems
 * *University of Labour & Social Affairs (ULSA2)*
