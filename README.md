@@ -11,7 +11,7 @@ My technical foundation includes strong skills in **AWS**, **Linux**, **Python**
 
 I am currently finishing my B.S. in Information Technology, combining hands-on keyboard experience with a strong theoretical understanding of data structures, algorithms, and systems design.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 * **Cloud Platforms:** **Amazon Web Services (AWS)** (EC2, S3, RDS, VPC, IAM, etc.)
 * **Operating Systems:** **Linux** (Ubuntu, Debian, etc.), **Windows Server**
@@ -21,7 +21,7 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 * **Databases:** **SQL** (PostgreSQL, MySQL, DBA Fundamentals)
 * **Networking:** **TCP/IP**, **DNS**, **DHCP**
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### DevOps Engineer
 * **Company:** **Gameloft**
@@ -54,12 +54,28 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 * *University of Labour & Social Affairs (ULSA2)*
 * *Graduated: 2018 - 2022*
 
-## ⭐ Professional Verification
+## Featured Certifications & Training
+
+* **Containerization & Virtualization:**
+    * **Containerization and Virtualization with Docker and Kubernetes**
+    * (DataCamp, 2024) - [Show Credential]
+
+* **SRE & IT Service Management:**
+    * **ITIL® 4 Foundation Certificate in IT Service Management**
+    * (QA Ltd, 2024) - [Show Credential]
+
+* **Project & Data Engineering:**
+    * **Google Project Management: Specialization**
+    * (Google, 2024) - [Show Credential]
+    * **Google Data Analytics Specialization**
+    * (Google, 2023) - [Show Credential]
+
+## Professional Verification
 
 My professional experience is backed by official workplace verifications on my LinkedIn profile:
 
-* ✅ **Microsoft:** Verified via company work email.
-* ✅ **Gameloft:** Verified via company work email.
+* **Microsoft:** Verified via company work email.
+* **Gameloft:** Verified via company work email.
 
 This confirms my employment history and role at both organizations.
 
