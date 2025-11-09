@@ -58,17 +58,13 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 
 * **Containerization & Virtualization:**
     * **Containerization and Virtualization with Docker and Kubernetes**
-    * (DataCamp, 2024) - [Show Credential]
 
 * **SRE & IT Service Management:**
     * **ITIL® 4 Foundation Certificate in IT Service Management**
-    * (QA Ltd, 2024) - [Show Credential]
 
 * **Project & Data Engineering:**
     * **Google Project Management: Specialization**
-    * (Google, 2024) - [Show Credential]
     * **Google Data Analytics Specialization**
-    * (Google, 2023) - [Show Credential]
 
 ## Professional Verification
 
