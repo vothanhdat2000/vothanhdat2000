@@ -1,6 +1,8 @@
 # Vo Thanh Dat
 **DevOps Engineer | Site Reliability Engineer (SRE) | Data Engineer**
 
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/9b0a3a74-5d26-4bb8-bb0d-5c145b5a1fa1" />
+
 ## About Me
 
 I am a results-driven engineer with expertise across the modern tech stack. 
@@ -25,24 +27,12 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 
 ### DevOps Engineer
 * **Company:** **Gameloft**
-* **Duration:** November 2024 – Present
-* Design, deploy, and manage scalable and highly available infrastructure on **AWS** using Infrastructure as Code (IaC) tools like [Terraform/CloudFormation].
-* Implement and maintain CI/CD pipelines using **Docker** and **Kubernetes** to automate the build, testing, and deployment of applications.
-* Monitor system performance and reliability using **Prometheus** and **Grafana**, responding to incidents and driving post-mortem analysis to ensure SLOs are met.
-* Develop and maintain robust ETL/ELT data pipelines using **Python** and [AWS Glue/Airflow] to process and deliver data for analytics teams.
 
 ### Site Reliability Engineer
 * **Company:** **Microsoft**
-* **Duration:** January 2023 – November 2024
-* Acted as an SRE for core Microsoft services, responsible for maintaining service reliability, upholding SLOs/SLAs, and participating in on-call incident response.
-* Automated operational tasks, diagnostics, and recovery procedures using **PowerShell** to reduce manual intervention (MTTR) and improve system resilience.
-* Analyzed service telemetry and health data to identify, troubleshoot, and resolve systemic issues related to networking, identity, and distributed cloud services.
 
 ### Data Engineer
 * **Company:** **Sportify**
-* **Duration:** March 2022 – January 2023
-* Wrote and optimized complex SQL queries and data models for analytics.
-* Built and maintained data ingestion pipelines using Python and [ETL tools].
 
 ## 🎓 Education
 
@@ -53,18 +43,6 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 ### Bachelor of Business, Business Administration - Management Information Systems
 * *University of Labour & Social Affairs (ULSA2)*
 * *Graduated: 2018 - 2022*
-
-## Featured Certifications & Training
-
-* **Containerization & Virtualization:**
-    * **Containerization and Virtualization with Docker and Kubernetes**
-
-* **SRE & IT Service Management:**
-    * **ITIL® 4 Foundation Certificate in IT Service Management**
-
-* **Project & Data Engineering:**
-    * **Google Project Management: Specialization**
-    * **Google Data Analytics Specialization**
 
 ## Professional Verification
 
