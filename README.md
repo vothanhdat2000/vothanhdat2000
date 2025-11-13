@@ -34,7 +34,7 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 ### Data Engineer
 * **Company:** **Sportify**
 
-## 🎓 Education
+## Education
 
 ### Bachelor of Science, Information Technology - Cloud & Systems Engineering
 * *University of Information Technology (UIT) - VNU-HCM*
