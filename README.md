@@ -15,11 +15,11 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 
 ## Technical Skills
 
-* **Cloud Platforms:** **Amazon Web Services (AWS)** (EC2, S3, RDS, VPC, IAM, etc.)
-* **Operating Systems:** **Linux** (Ubuntu, Debian, etc.), **Windows Server**
+* **Cloud Platforms:** **Amazon Web Services (AWS)** (EC2, S3, etc.)
+* **Operating Systems:** **Linux** (Ubuntu), **Windows Server**
 * **DevOps / CI/CD:** **Docker**, **Kubernetes**
 * **Monitoring & Observability:** **Prometheus**, **Grafana**
-* **Automation Scripting:** **Python**, **PowerShell**, Bash
+* **Automation Scripting:** **Python**, **PowerShell**
 * **Databases:** **SQL** (PostgreSQL, MySQL, DBA Fundamentals)
 * **Networking:** **TCP/IP**, **DNS**, **DHCP**
 
