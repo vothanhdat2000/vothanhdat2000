@@ -32,7 +32,7 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 * **Company:** **Microsoft**
 
 ### Data Engineer
-* **Company:** **Sportify**
+* **Company:** **Spotify**
 
 ## Education
 
