@@ -38,7 +38,7 @@ I am currently finishing my B.S. in Information Technology, combining hands-on k
 
 ### Bachelor of Science, Information Technology - Cloud & Systems Engineering
 * *University of Information Technology (UIT) - VNU-HCM*
-* *Graduation: 2023 - 2026*
+* *Graduation: 2023 - 2025*
 
 ### Bachelor of Business, Business Administration - Management Information Systems
 * *University of Labour & Social Affairs (ULSA2)*
