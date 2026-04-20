@@ -1,59 +1,45 @@
 # Vo Thanh Dat
-**DevOps Engineer | Site Reliability Engineer (SRE) | Data Engineer**
+## DevOps | Site Reliability Engineer (SRE) | Platform Engineer
+
+My engineering philosophy is simple: "Treat Operations as Software."
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/9b0a3a74-5d26-4bb8-bb0d-5c145b5a1fa1" />
 
 ## About Me
 
-I am a results-driven engineer with expertise across the modern tech stack. 
+With a background evolving from Data Platform Engineering to System Reliability and Cloud-Native Infrastructure, I possess a 360-degree view of how to architect scalable, resilient systems. I don't just maintain servers; I engineer automation solutions using Go and Python to eliminate operational toil and ensure high availability (99.9x% uptime) for critical services.
 
-My career has progressed from **Data Engineering** (ETL, pipelines) to **Site Reliability Engineering** (SLOs, automation) and now to **DevOps** (CI/CD, IaC). This journey has given me a deep, end-to-end understanding of building, scaling, and maintaining resilient systems.
+### Current Focus & Milestones
+- Driving operational excellence and optimizing CI/CD pipelines at Gameloft.
+- Deepening expertise in Core Enterprise Infrastructure with active preparation for CCNA and RHCSA certifications.
 
-My technical foundation includes strong skills in **AWS**, **Linux**, **Python**, **Database Administration (DBA)**, and **PowerShell**.
+### Technical Arsenal
 
-I am currently finishing my B.S. in Information Technology, combining hands-on keyboard experience with a strong theoretical understanding of data structures, algorithms, and systems design.
+Cloud & Infrastructure as Code:
+- Amazon Web Services (AWS), Terraform, Docker, Kubernetes
 
-## Technical Skills
+Core Systems & Networking:
+- Linux (Ubuntu, RHEL/CentOS), Windows Server
+- TCP/IP, DNS, DHCP, Network Administration
 
-* **Cloud Platforms:** **Amazon Web Services (AWS)** (EC2, S3, etc.)
-* **Operating Systems:** **Linux** (Ubuntu), **Windows Server**
-* **DevOps / CI/CD:** **Docker**, **Kubernetes**
-* **Monitoring & Observability:** **Prometheus**, **Grafana**
-* **Automation Scripting:** **Python**, **PowerShell**
-* **Databases:** **SQL** (PostgreSQL, MySQL, DBA Fundamentals)
-* **Networking:** **TCP/IP**, **DNS**, **DHCP**
+Automation & Observability:
+- Go, Python, PowerShell, Bash
+- Prometheus, Grafana, Incident Management
 
-## Professional Experience
+Data & Process:
+- SQL (PostgreSQL, MySQL), ITIL 4 Foundation
 
-### DevOps Engineer
-* **Company:** **Gameloft**
+### Professional Experience
+- DevOps Engineer @ Gameloft
+- Site Reliability Engineer (SRE) @ Microsoft
+- Data Platform Engineer @ Spotify
 
-### Site Reliability Engineer
-* **Company:** **Microsoft**
+### Education
+- B.S. Information Technology (Cloud & Systems Engineering) - University of Information Technology (UIT) | 2022 - 2025
+- B.B.A. Management Information Systems - University of Labour & Social Affairs (ULSA2) | 2018 - 2022
 
-### Data Engineer
-* **Company:** **Spotify**
+*(Note: My professional experience is backed by official workplace verifications via company work emails on my LinkedIn profile).*
 
-## Education
-
-### Bachelor of Science, Information Technology - Cloud & Systems Engineering
-* *University of Information Technology (UIT) - VNU-HCM*
-* *Graduation: 2022 - 2025*
-
-### Bachelor of Business, Business Administration - Management Information Systems
-* *University of Labour & Social Affairs (ULSA2)*
-* *Graduated: 2018 - 2022*
-
-## Professional Verification
-
-My professional experience is backed by official workplace verifications on my LinkedIn profile:
-
-* **Microsoft:** Verified via company work email.
-* **Gameloft:** Verified via company work email.
-
-This confirms my employment history and role at both organizations.
-
-## 📫 Connect With Me
-
-* **Email:** [vothanhdat20012000@gmail.com](mailto:vothanhdat20012000@gmail.com)
-* **GitHub:** [github.com/vothanhdat2000](https://github.com/vothanhdat2000)
+### Contact
+- LinkedIn: [in/vo-thanh-dat-vtd20012000](https://www.linkedin.com/in/vo-thanh-dat-vtd20012000)
+- Email: vothanhdat20012000@gmail.com
