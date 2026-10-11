@@ -1,45 +1,57 @@
 # Vo Thanh Dat
-## DevOps | Site Reliability Engineer (SRE) | Platform Engineer
 
-My engineering philosophy is simple: "Treat Operations as Software."
+### DevOps & SRE
 
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/9b0a3a74-5d26-4bb8-bb0d-5c145b5a1fa1" />
+Ho Chi Minh City, Vietnam
 
-## About Me
+Cloud infrastructure, incident response and delivery automation.  
+Building toward Platform Engineering.  
+Currently learning front-end development through my portfolio.
 
-With a background evolving from Data Platform Engineering to System Reliability and Cloud-Native Infrastructure, I possess a 360-degree view of how to architect scalable, resilient systems. I don't just maintain servers; I engineer automation solutions using Go and Python to eliminate operational toil and ensure high availability (99.9x% uptime) for critical services.
+**Engineering philosophy:** Treat Operations as Software.
 
-### Current Focus & Milestones
-- Driving operational excellence and optimizing CI/CD pipelines at Gameloft.
-- Deepening expertise in Core Enterprise Infrastructure with active preparation for CCNA and RHCSA certifications.
+[Portfolio](https://vothanhdat2000.github.io/) · [LinkedIn](https://www.linkedin.com/in/vo-thanh-dat-vtd20012000/) · [Email](mailto:vothanhdat20012000@gmail.com)
 
-### Technical Arsenal
+## Experience
 
-Cloud & Infrastructure as Code:
-- Amazon Web Services (AWS), Terraform, Docker, Kubernetes
+| Company | Role | Timeline |
+| --- | --- | --- |
+| <img src="assets/gameloft.png" width="24" height="24" alt="" /> Gameloft | DevOps Engineer | Nov 2024 – Jul 2026 |
+| <img src="assets/microsoft.svg" width="24" height="24" alt="" /> Microsoft | Site Reliability Engineer (SRE) | Nov 2022 – Nov 2024 |
+| <img src="assets/spotify.svg" width="24" height="24" alt="" /> Spotify | Data Platform Engineer | Oct 2021 – Nov 2022 |
+| Spotify | Data Engineer Intern | Aug 2021 – Oct 2021 |
 
-Core Systems & Networking:
-- Linux (Ubuntu, RHEL/CentOS), Windows Server
-- TCP/IP, DNS, DHCP, Network Administration
+My work spans global game infrastructure, Azure incident response, and data-platform operations, with a focus on automation, observability and delivery workflows.
 
-Automation & Observability:
-- Go, Python, PowerShell, Bash
-- Prometheus, Grafana, Incident Management
+- **Gameloft:** Kubernetes and EKS, delivery automation, monitoring and infrastructure operations.
+- **Microsoft:** Azure, Kubernetes and AKS, incident response, infrastructure automation and root cause analysis.
+- **Spotify:** Luigi data-platform operations, monitoring, automation scripting and log scripting.
+- **Independent SRE consulting:** observability and incident workflows for a confidential F&B/ecommerce client.
 
-Data & Process:
-- SQL (PostgreSQL, MySQL), ITIL 4 Foundation
+## Technical focus
 
-### Professional Experience
-- DevOps Engineer @ Gameloft
-- Site Reliability Engineer (SRE) @ Microsoft
-- Data Platform Engineer @ Spotify
+| Area | Technologies |
+| --- | --- |
+| Cloud & infrastructure | AWS, Microsoft Azure, Kubernetes, AKS, EKS, Docker, Terraform |
+| Delivery & automation | GitHub Actions, GitLab CI/CD, Azure DevOps, Argo CD, Helm, Go, Python, Bash, PowerShell |
+| Reliability & observability | Prometheus, Grafana, ELK, Datadog, Sentry, Akamai, incident.io |
+| Systems & identity | Linux, Ubuntu, Windows Server, Microsoft Active Directory, Microsoft Entra ID |
+| SQL & databases | SQL, MySQL, PostgreSQL, Microsoft SQL Server |
 
-### Education
-- B.S. Information Technology (Cloud & Systems Engineering) - University of Information Technology (UIT) | 2022 - 2025
-- B.B.A. Management Information Systems - University of Labour & Social Affairs (ULSA2) | 2018 - 2022
+**Collaboration:** Jira, Notion, Slack, Mattermost.  
+**Development tools:** VS Code, Cursor, Claude, Codex.  
+**This portfolio:** Astro, TypeScript, HTML, CSS, JavaScript — a practical front-end, UI/UX and motion learning project.
 
-*(Note: My professional experience is backed by official workplace verifications via company work emails on my LinkedIn profile).*
+See the [portfolio](https://vothanhdat2000.github.io/#areas) for the grouped stack, brand marks and experience context.
 
-### Contact
-- LinkedIn: [in/vo-thanh-dat-vtd20012000](https://www.linkedin.com/in/vo-thanh-dat-vtd20012000)
-- Email: vothanhdat20012000@gmail.com
+## Education & qualifications
+
+- **University of Information Technology (UIT), VNU-HCM** — BSc, Information Technology, Cloud & Systems Engineering · 2023–2025
+- **University of Labour & Social Affairs (ULSA2)** — BBA, Management Information Systems · 2018–2022
+- AWS Certified Cloud Practitioner (CLF-C02)
+- ITIL 4 Foundation — QA Ltd · 2024
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/vo-thanh-dat-vtd20012000/)
+- [vothanhdat20012000@gmail.com](mailto:vothanhdat20012000@gmail.com)
